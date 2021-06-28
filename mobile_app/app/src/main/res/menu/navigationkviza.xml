@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/navigacijakviza">
+    <item
+        android:id="@+id/zaustaviKviz"
+        android:icon="@android:drawable/btn_radio"
+        android:title="Zaustavi kviz"/>
+    <item
+        android:id="@+id/predajKviz"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="Predaj kviz"/>
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kvizovi"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Pregled kvizova"/>
+    <item
+        android:id="@+id/predmeti"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Dodaj grupu"/>
+</menu>
